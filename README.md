@@ -6,7 +6,6 @@ Aspiring Frontend & Backend Developer | Passionate about Web Development
 ## Languages
 - ru Russian – Native
 - 🇬🇧 English – B2
-- de German  = B1
 
 ## My Stack and Tools 🛠
 
