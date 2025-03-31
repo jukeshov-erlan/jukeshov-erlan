@@ -38,6 +38,12 @@ Frontend & Backend Developer | Passionate about Web Development
 
 ![](https://komarev.com/ghpvc/?username=jukeshov-erlan&color=blue)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jukeshov-erlan&theme=radical)
+
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jukeshov-erlan&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukeshov-erlan&layout=compact&theme=radical)
 
 ---
