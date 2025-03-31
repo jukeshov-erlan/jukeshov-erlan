@@ -41,7 +41,6 @@ Frontend & Backend Developer | Passionate about Web Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" height="50"/>
 </p>
 
-
 ## GitHub Stats 📊
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jukeshov-erlan&theme=radical)
