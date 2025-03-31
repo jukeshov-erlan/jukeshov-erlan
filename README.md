@@ -34,7 +34,9 @@ Frontend & Backend Developer | Passionate about Web Development
 
 ## GitHub Stats 📊
 
-![Erlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jukeshov-erlan&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=jukeshov-erlan&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=jukeshov-erlan&color=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukeshov-erlan&layout=compact&theme=radical)
 
