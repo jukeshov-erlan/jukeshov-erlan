@@ -8,7 +8,10 @@ Frontend & Backend Developer | Passionate about Web Development
 - us English – B2
 
 ## My Stack and Tools 🛠
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50">
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 
 
 
