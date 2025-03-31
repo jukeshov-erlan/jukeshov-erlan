@@ -34,7 +34,7 @@ Frontend & Backend Developer | Passionate about Web Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
 </p>
-
+![Express](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Expressjs.png/600px-Expressjs.png)
 ## 🔧 Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
