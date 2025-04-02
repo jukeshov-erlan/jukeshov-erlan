@@ -36,16 +36,17 @@
 ## Backend
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" title="node.js"/>
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="50" title="nest.js"/> -->
   <img src="https://logowik.com/content/uploads/images/express-js1720895487.logowik.com.webp" width="50" height="50" title="express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="postgresql"/>
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="50" title="nest.js"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Рython"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="РostgreSQL"/>
 </p>
 
 ## Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" title="postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" title="Postman"/>
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" height="50" title="notion"/> -->
 </p>
 
