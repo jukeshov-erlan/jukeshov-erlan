@@ -51,6 +51,8 @@
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukeshov-erlan&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=jukeshov-erlan&theme=radical)
+
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jukeshov-erlan&theme=radical)
 
