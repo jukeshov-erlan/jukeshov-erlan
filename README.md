@@ -4,9 +4,9 @@
 Frontend & Backend Developer | Passionate about Web Development
 
 ## Languages  
-![🇷🇺 Русский - Родной](https://img.shields.io/badge/🇷🇺-Русский_Родной-blue?style=flat-square)  
-![🇬🇧 Английский - B2](https://img.shields.io/badge/🇬🇧-Английский_B2-blue?style=flat-square)  
-![🇩🇪 Немецкий - B1](https://img.shields.io/badge/🇩🇪-Немецкий_B1-blue?style=flat-square)  
+![🇷🇺 Russian - Native](https://img.shields.io/badge/🇷🇺-Русский_Родной-blue?style=flat-square)  
+![🇬🇧 English - B2](https://img.shields.io/badge/🇬🇧-Английский_B2-blue?style=flat-square)  
+![🇩🇪 German - B1](https://img.shields.io/badge/🇩🇪-Немецкий_B1-blue?style=flat-square)  
 
 
 
