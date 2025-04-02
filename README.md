@@ -6,9 +6,9 @@ Frontend & Backend Developer | Passionate about Web Development
 ## Languages  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Russian_Native-blue?style=flat-square&logo=Russia&logoColor=white">
-  <img src="https://img.shields.io/badge/-English_B2-blue?style=flat-square&logo=United-Kingdom&logoColor=white">
-  <img src="https://img.shields.io/badge/-German_B1-blue?style=flat-square&logo=Germany&logoColor=white">
+  <img src="https://img.shields.io/badge/-Russian_Native-blue?style=flat-square&logo=Russia&logoColor=white" width="50" height="50">
+  <img src="https://img.shields.io/badge/-English_B2-blue?style=flat-square&logo=United-Kingdom&logoColor=white" width="50" height="50">
+  <img src="https://img.shields.io/badge/-German_B1-blue?style=flat-square&logo=Germany&logoColor=white" width="50" height="50">
 </p>
 
 
