@@ -3,14 +3,11 @@
 ## About Me
 Frontend & Backend Developer | Passionate about Web Development
 
-## Languages
-- ru Russian – Native
-- us English – B2
+## Languages  
+![🇷🇺 Русский - Родной](https://img.shields.io/badge/🇷🇺-Русский_Родной-blue?style=flat-square)  
+![🇬🇧 Английский - B2](https://img.shields.io/badge/🇬🇧-Английский_B2-blue?style=flat-square)  
+![🇩🇪 Немецкий - B1](https://img.shields.io/badge/🇩🇪-Немецкий_B1-blue?style=flat-square)  
 
-- ## 🌍 Языки  
-![Русский](https://img.shields.io/badge/-Русский-1f425f?style=flat-square)  
-![Английский](https://img.shields.io/badge/-Английский-007ACC?style=flat-square)  
-![Немецкий](https://img.shields.io/badge/-Немецкий-ffcc00?style=flat-square)  
 
 
 ## My Stack and Tools 🛠
