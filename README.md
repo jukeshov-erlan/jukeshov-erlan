@@ -1,9 +1,8 @@
 # Hey there, I'm Erlan Jukeshov!
 
-## About Me
-<span style="font-size: 18px;">
+### About Me
   Frontend & Backend Developer
-</span>
+
 
 ## Languages  
 <span style="font-size: 18px;">
@@ -14,7 +13,7 @@
 
 
 
-## My Stack and Tools 🛠
+## My Stack and Tools
 ## Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="html"/>
@@ -50,10 +49,8 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" height="50" title="notion"/> -->
 </p>
 
-## GitHub Stats 📊
-
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukeshov-erlan&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jukeshov-erlan&theme=radical)
-
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jukeshov-erlan&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukeshov-erlan&layout=compact&theme=radical)
