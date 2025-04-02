@@ -7,6 +7,12 @@ Frontend & Backend Developer | Passionate about Web Development
 - ru Russian – Native
 - us English – B2
 
+- ## 🌍 Языки  
+![Русский](https://img.shields.io/badge/-Русский-1f425f?style=flat-square)  
+![Английский](https://img.shields.io/badge/-Английский-007ACC?style=flat-square)  
+![Немецкий](https://img.shields.io/badge/-Немецкий-ffcc00?style=flat-square)  
+
+
 ## My Stack and Tools 🛠
 ## Frontend
 <p align="center">
